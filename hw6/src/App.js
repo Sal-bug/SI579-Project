@@ -27,6 +27,7 @@ function App() {
   return (
     <>
       <main className="container">
+        <p>The code is available at https://github.com/Sal-bug/SI-579/tree/main/hw6</p>
         <h1 className="row">Rhyme Finder (579 Problem Set 6)</h1>
         <div className="row">
             <div className="col">Saved words: <SavedWords words={WordsToSave} /> </div>
